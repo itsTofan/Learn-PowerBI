@@ -61,5 +61,5 @@
 > 8. Techniques for clearing specific filters or removing all filters to restore the full data display.
 > 
 > Overall, the tutorial provides a step-by-step guide on sorting and filtering data in Excel, using practical examples related to AdventureWorks' inventory data.
->
-> 
+
+## 
